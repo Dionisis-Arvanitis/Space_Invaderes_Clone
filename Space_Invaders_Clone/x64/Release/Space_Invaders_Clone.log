@@ -1,0 +1,14 @@
+﻿  bullet.cpp
+  game.cpp
+C:\Users\d0th\source\repos\Space_Invaders_Clone\Space_Invaders_Clone\game.cpp(499,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gameobject.cpp
+  Invader.cpp
+  main.cpp
+  pilar.cpp
+  player.cpp
+  util.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 232 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Space_Invaders_Clone.vcxproj -> C:\Users\d0th\source\repos\Space_Invaders_Clone\bin\Space_Invaders_Clone.exe
